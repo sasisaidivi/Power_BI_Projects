@@ -1,10 +1,4 @@
-# Social_Media_Ad_Campaign
-
-![Screenshot (52)](https://github.com/RigonMetis/Social_Media_Ad_Campaign/assets/101653114/8da394b2-6bb1-4caf-be75-144155be71a2)
-
 # About the Dataset:
-
-Link- https://www.kaggle.com/datasets/loveall/clicks-conversion-tracking
 
 The data set is retrieved from the Kaggle data set Sales Conversion Optimization by GOKAGGLERS, where it describes the marketing and conversion information of an anonymous organisation’s social media ad campaign.
 
