@@ -6,22 +6,6 @@ A collection of Power BI projects showcasing data visualization, analytics, and 
 
 This repository contains various Power BI dashboards and reports designed to help analyze data, track KPIs, and drive data-driven decision-making. Each project demonstrates different Power BI capabilities including data modeling, DAX calculations, and interactive visualizations.
 
-## 📂 Project Structure
-
-```
-Power_BI_Projects/
-├── README.md
-├── [Project 1]/
-│   ├── Dashboard Files
-│   ├── Data Sources
-│   └── Documentation
-├── [Project 2]/
-│   ├── Dashboard Files
-│   ├── Data Sources
-│   └── Documentation
-└── ...
-```
-
 ## 🛠️ Requirements
 
 - **Power BI Desktop** (Latest version recommended)
@@ -73,14 +57,6 @@ Contributions are welcome! To contribute:
 2. Create a new branch for your project
 3. Add your Power BI files and documentation
 4. Submit a pull request with details about your project
-
-## 📧 Contact
-
-For questions or suggestions, feel free to reach out or open an issue.
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
